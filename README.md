@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-- 👯 ### About Me
+- 👯 :-)
+### About Me
 - 😄 I am Temitayo Olorunfemi, a Web Developer Pursuing my Bachelors in Computer Engineering.
 
 - 🔭 I Enjoy contributing to Open-Source Projects and I'm really Enthsiastic about learning new Technologies.
