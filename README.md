@@ -9,6 +9,5 @@
 - 🌱 Outside the world of Tech, I love pushing myself to develop new skills ranging from Singing to personal growth
 
 - 📫 How to reach me:
-   ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
    ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 - 😄 Pronouns:
